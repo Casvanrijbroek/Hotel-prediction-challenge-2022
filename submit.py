@@ -1,3 +1,8 @@
+"""
+Script for submitting models for the Kaggle hotel challenge.
+Credit to Michal for publishing a backbone for the challenge.
+"""
+
 import numpy as np
 import pandas as pd
 import random
